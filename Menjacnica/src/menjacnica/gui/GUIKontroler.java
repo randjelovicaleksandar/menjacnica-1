@@ -1,18 +1,12 @@
 package menjacnica.gui;
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.io.File;
-import java.util.LinkedList;
-
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
-import javax.swing.border.EmptyBorder;
-
 import menjacnica.Menjacnica;
 import menjacnica.MenjacnicaInterface;
 import menjacnica.Valuta;
